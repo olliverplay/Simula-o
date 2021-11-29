@@ -1,2 +1,5 @@
 Questão N1° 
-O que é uma branch
+O que é uma branch?
+
+Questão N2°
+O que é uma merge?
