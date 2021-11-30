@@ -1,0 +1,7 @@
+Questão N1° 
+O que é uma branch?
+Uma ramificação do seu projeto inicial, onde você pode estar alterando algo ou corrigindo um erro
+sem modificar o código fonte
+Questão N2°
+O que é uma merge?
+junção da branch criada com o código principal
